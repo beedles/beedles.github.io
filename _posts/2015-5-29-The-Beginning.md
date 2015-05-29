@@ -2,7 +2,6 @@
 published: true
 ---
 
-## The Beginning
 
 "The Game" (so far the only title I have come close to giving it is "Twin Stick Shooter"...) was born out of a desire for a mash up of various genres. I have always enjoyed games that allow me to develop a character over time, learning new skills, getting new equipment, and defeating progressively harder enemies. Obviously this led me to love and play hundreds of hours in games like Ultima Online, Diablo (1, 2 and 3), Path of Exile, as well as many MOBA's including many hours in DOTA (in Warcraft 3) and DOTA 2. One gem that I've recently picked up again is Dawn of Magic, and it's this game that is the major inspiration.
 
