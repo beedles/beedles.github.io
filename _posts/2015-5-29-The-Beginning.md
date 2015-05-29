@@ -12,5 +12,5 @@ Over time I plan to reveal various features (either implemented or planned) that
 
 Finally here is a gif from the latest build, recently I implemented some basic "lighting" including a "flickering" effect (albeit far too eratic). I intend to rework this next.
 
-![]https://cloud.githubusercontent.com/assets/7096450/7877237/d8a51310-062b-11e5-9736-986a32190717.gif)
+![](https://cloud.githubusercontent.com/assets/7096450/7877237/d8a51310-062b-11e5-9736-986a32190717.gif)
 
